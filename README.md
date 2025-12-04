@@ -11,6 +11,10 @@ Key questions addressed in this analysis likely include:
 
 3. What are the most significant indicators of a healthy lifestyle within the provided dataset?
 
+### Data Pipeline Diagram:
+
+![image](data/datapipelinebios.jpeg)
+
 ### 🛠 Tools Used
 The project utilizes a standard Data Science technology stack, primarily focused on Python for data manipulation and visualization.
 
